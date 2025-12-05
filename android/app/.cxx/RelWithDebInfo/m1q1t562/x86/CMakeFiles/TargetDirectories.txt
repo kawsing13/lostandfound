@@ -1,0 +1,2 @@
+C:/Users/jonat/StudioProjects/lostandfound/android/app/.cxx/RelWithDebInfo/m1q1t562/x86/CMakeFiles/edit_cache.dir
+C:/Users/jonat/StudioProjects/lostandfound/android/app/.cxx/RelWithDebInfo/m1q1t562/x86/CMakeFiles/rebuild_cache.dir

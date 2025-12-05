@@ -1,0 +1,2 @@
+C:/Users/jonat/StudioProjects/lostandfound/android/app/.cxx/RelWithDebInfo/4529641t/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/jonat/StudioProjects/lostandfound/android/app/.cxx/RelWithDebInfo/4529641t/armeabi-v7a/CMakeFiles/rebuild_cache.dir
