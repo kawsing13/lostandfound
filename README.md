@@ -1,6 +1,6 @@
 # cam
 
-A Gecko Camera App
+A Lost and Found App
 
 ## Getting Started
 
